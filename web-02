@@ -1,0 +1,1 @@
+ssh ubuntu@35.175.102.39 -i private_key
